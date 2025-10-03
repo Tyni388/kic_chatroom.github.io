@@ -3,7 +3,7 @@
 🇬🇧 **English Version**
 
 #### Take a look on the chatroom here:  
-[https://weberi.github.io/kic_chatroom.github.io](https://weberi.github.io/kic_chatroom.github.io)
+[https://tyni388.github.io/kic_chatroom.github.io/]
 
 
 #### To create your own chatroom:
@@ -20,8 +20,7 @@
 🇩🇪 **Deutsche Version**
 
 #### Schau dir den Chatroom hier an:  
-[https://tyni388.github.io/ChatbotMakerspace/](https://weberi.github.io/kic_chatroom.github.io)
-
+[[https://tyni388.github.io/ChatbotMakerspace/](https://tyni388.github.io/kic_chatroom.github.io/)]
 #### Möchtest du deinen eigenen Chatroom einrichten? So geht's:
 1. Forke dieses Repository (dadurch erhältst du eine Kopie des Projekts in deinem GitHub-Konto).
 2. Klicke in deinem neuen Repository auf die Datei `index.html`, um sie zu öffnen. Dann klicke oben rechts auf das Stiftsymbol (✏️), um die Datei direkt auf GitHub zu bearbeiten.
